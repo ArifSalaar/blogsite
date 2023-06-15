@@ -4,7 +4,7 @@ import {Link} from "react-router-dom"
 export default function Login() {
   return (
     <div className='login'>
-        <span className="loginTitle"> Login</span>
+        <span className="loginTitle"> Login your account</span>
      <form className='loginForm'>
         <label>Email</label>
         <input type='email' className='loginInput' placeholder='Enter your Email ...' />
