@@ -17,7 +17,7 @@ export default function Write() {
 
           </textarea>
         </div>
-        <button className='writeSubmit'> Publish</button>
+        <button className='writeSubmit'> Publish here!</button>
       </form>
       
     </div>
